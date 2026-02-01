@@ -53,14 +53,17 @@ Correcting the IPv4 configuration and system date/time settings restored network
 ---
 
 ## Screenshots
+- Physical Setup  
+  ![Physical Setup](screenshots/physical-setup.png)
+  
+- Network Diagram  
+  ![Network Diagram](screenshots/Network-Diagram.png)
+  
 - IPv4 Configuration  
   ![IPv4 Settings](screenshots/ipv4-settings.png)
 
-- Date and Time Configuration  
-  ![Date and Time Settings](screenshots/date-time-settings.png)
-
-- Connectivity Confirmation  
-  ![Connectivity Confirmed](screenshots/connectivity-confirmed.png)
+- Incedent Report
+  ![Incedent Report](screenshots/incedent-report.png)
 
 ---
 
