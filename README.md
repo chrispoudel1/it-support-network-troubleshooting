@@ -57,13 +57,13 @@ Correcting the IPv4 configuration and system date/time settings restored network
   ![Physical Setup](screenshots/physical-setup.png)
   
 - Network Diagram  
-  ![Network Diagram](screenshots/Network-Diagram.png)
+  ![Network Diagram](screenshots/network-diagram.png)
   
 - IPv4 Configuration  
   ![IPv4 Settings](screenshots/ipv4-settings.png)
 
 - Incedent Report
-  ![Incedent Report](screenshots/incedent-report.png)
+  ![Incedent Report](screenshots/Incedent-Report.png)
 
 ---
 
